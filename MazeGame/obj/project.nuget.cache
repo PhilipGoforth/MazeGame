@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXPZ/Rrs9qJhxdU8weXGBHBFbYUzM6piMS7jypc3JfR1emceySCvLIXWBzGO3iH1JcLJ9xumXsLapS5dAn89sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ego\\repos\\MazeGame\\MazeGame\\MazeGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
