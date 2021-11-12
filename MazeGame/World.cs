@@ -41,7 +41,7 @@ namespace MazeGame
         }
         public string GetElementAt(int x, int y)
         {
-            return Grid[x, y];
+            return Grid[y, x];
         }
         public bool IsPositionWalkable(int x, int y)
         {
